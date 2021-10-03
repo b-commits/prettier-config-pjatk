@@ -1,0 +1,16 @@
+{
+    "name": "@b-commits/prettier-config",
+    "version": "1.0.1",
+    "description": "Prettier Config",
+    "main": "index.json",
+    "license": "MIT",
+    "keywords": [
+      "prettier",
+      "prettier-config"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/b-commits/prettier-config-pjatk.git"
+    },
+    "homepage": "https://github.com/b-commits/prettier-config-pjatk.git"
+  }
